@@ -9,6 +9,7 @@ Bikeshare project looks at the bikes shared within this three cities in US; Wash
 
 ### Files used
 CSV files from each of the cities above were used.
+These CSV files shows the start time of the trip, end time, trip duration, start station, end station,user type, gender, birth year.
 
 ### Credits
 I referred to some examples form kaggle located at https://www.kaggle.com/marklvl/explanatory-data-analysis-on-bike-sharing-dataset

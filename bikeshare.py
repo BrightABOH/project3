@@ -143,7 +143,7 @@ def time_stats(df):
     print('-'*40)
 
 
-
+# A function to display the most popular stations
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 

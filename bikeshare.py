@@ -1,3 +1,4 @@
+#
 import time
 import pandas as pd
 import numpy as np
@@ -5,7 +6,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-
+#A function to  to get filters from the CITY_DATA
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -69,7 +70,7 @@ def load_data(city, month, day):
     # load data file into a dataframe
     df = pd.read_csv(CITY_DATA[city])
 
-    # convert the Start Time column to datetime
+    # This line convert the Start Time column to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
 
     # extract month and day of week from Start Time to create new columns

@@ -1,11 +1,11 @@
 ### Date created
-This project was created on 11/04/2020.
+This project was created on 11/04/2020 at 8:09pm.
 
 ### Project Title
-Bikeshare project
+Bikesharing project
 
 ### Description
-Bikeshare project looks at the bikes shared within this three cities in US; Washington, New York and Chicago. Data analysis was done to calculate some metrics such as the optimum start time, the destinations the bikes go to etc
+Bikeshare project looks at the bikes shared within this three cities in US; Washington, New York and Chicago. Data analysis was done to calculate some metrics such as the optimum start time, the destinations the bikes go to etc.
 
 ### Files used
 CSV files from each of the cities above were used.
